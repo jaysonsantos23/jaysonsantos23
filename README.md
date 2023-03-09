@@ -1,16 +1,12 @@
-### Hi there 👋
+### Me chamo Jayson, amo jogar xadrez, viciado em livros de auto ajuda e adoro escutar um samba.
+No momento estou cursando desenvolvimento de software na Cubos Academy e faço desafios de programação ou ajudo em projetos paralelos nas horas vagas.
+Acredito que tenho a capacidade e a vontade para ser um Desenvolvedor acima da média.
 
-<!--
-**jaysonsantos23/jaysonsantos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Algumas das tecnologias que conheço:
+-Python
+-Javascript
+-HTML
+-CSS
+-C++
+-PHP
+-Java
