@@ -1,13 +1,14 @@
-### Olá, me chamo Jayson, 
-Amo jogar xadrez, viciado em livros de auto ajuda e adoro escutar um samba.
-No momento estou cursando desenvolvimento de software na Cubos Academy e faço desafios de programação ou ajudo em projetos paralelos nas horas vagas.
-Acredito que tenho a capacidade e a vontade para ser um Desenvolvedor acima da média.
+### Olá, sou Jayson  
 
-Algumas das tecnologias que conheço:
--Python
--Javascript
--HTML
--CSS
--C++
--PHP
--Java
+Atuo profissionalmente como **Desenvolvedor de Software** na **ID Brasil Sistemas** e sou apaixonado por tecnologia e resolução de problemas. Nos momentos livres, gosto de participar de desafios de programação e contribuir para projetos paralelos, sempre buscando aprimorar minhas habilidades.  
+
+Sou um profissional comprometido, com foco em aprendizado contínuo e excelência técnica, sempre em busca de me destacar na área de desenvolvimento de software.  
+
+#### Tecnologias com as quais tenho experiência:  
+- **Java**  
+- **Python**  
+- **JavaScript**  
+- **HTML & CSS**  
+- **C++**  
+
+Sinta-se à vontade para entrar em contato ou acompanhar meus projetos! 🚀  
