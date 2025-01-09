@@ -5,7 +5,9 @@ Atuo profissionalmente como **Desenvolvedor de Software** na **ID Brasil Sistema
 Sou um profissional comprometido, com foco em aprendizado contínuo e excelência técnica, sempre em busca de me destacar na área de desenvolvimento de software.  
 
 #### Tecnologias com as quais tenho experiência:  
-- **Java**  
+- **Java**
+- **Spring Boot**
+- **Sql**
 - **Python**  
 - **JavaScript**  
 - **HTML & CSS**  
